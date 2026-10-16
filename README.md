@@ -1,4 +1,14 @@
-# Exercícios de Python
+![Estudos de Python](assets/banner.svg)
+
+# Estudos de Python
+
+<p>
+  <img src="https://img.shields.io/badge/Python-101827?style=for-the-badge&amp;labelColor=080c16&amp;color=173865" alt="Python" />
+  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-101827?style=for-the-badge&amp;labelColor=080c16&amp;color=173865" alt="Lógica de programação" />
+  <img src="https://img.shields.io/badge/Estudos-101827?style=for-the-badge&amp;labelColor=080c16&amp;color=173865" alt="Estudos" />
+</p>
+
+Coleção de exercícios desenvolvidos durante o curso técnico no COTUCA. Cada arquivo registra um conteúdo praticado em aula, com suas condições de entrada e limitações.
 
 Exercícios acadêmicos de lógica de programação, listas de registros e manipulação de strings.
 
@@ -25,3 +35,7 @@ Verificação desta inclusão: cinco exemplos conferidos (intervalos de letras e
 - `ex26DisciplinasSemReprovacao.py`: lista disciplinas sem notas inferiores a cinco. Nesta implementação, disciplinas sem registros também são incluídas. O arquivo foi renomeado para facilitar a leitura, sem alterar a função original.
 
 Foram conferidos seis casos de exemplo destas três funções, incluindo lista vazia em `freqNome`, aluno não localizado e disciplina sem registros. Os arquivos repetidos enviados com `(1)` eram idênticos às versões existentes e não foram duplicados.
+
+---
+
+<p align="center"><a href="https://github.com/mariaito-19">← Voltar ao perfil</a> · <b>Maria Fernanda Ito</b> · Aprendizado em prática</p>
